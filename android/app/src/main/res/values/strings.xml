@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bizz-Customer</string>
+    <string name="facebook_app_id">520257543481851</string>
+    <string name="fb_login_protocol_scheme">fb520257543481851</string>
+    <string name="facebook_client_token">dcd215f9b48fdf4f0f44a9c987fe91d2</string>
+</resources>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728728219307",
+    "project_id": "ubereat-b426c",
+    "storage_bucket": "ubereat-b426c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728728219307:android:dbbc27cca61be986dfd1ee",
+        "android_client_info": {
+          "package_name": "com.codexxa.bizzcustomer.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728728219307-r7jugnfo3r57b0d76kt442dvohv36afq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codexxa.bizzcustomer.android",
+            "certificate_hash": "62bc7fefe6c60ac1ee214699f00e280c56c751bf"
+          }
+        },
+        {
+          "client_id": "728728219307-ours8jdpckobcj5bvg4m8v6u7jb58rhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9DUX-yT6acZr5dZxR3ssug3qWVMzQNDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728728219307-ours8jdpckobcj5bvg4m8v6u7jb58rhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
